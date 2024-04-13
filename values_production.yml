@@ -1,5 +1,5 @@
 replicas: 3
 image:
-  repository: yagan93/spring
+  repository: skunkerle/spring
   tag: 0.0.1
 environment: production
