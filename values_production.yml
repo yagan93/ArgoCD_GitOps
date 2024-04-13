@@ -1,5 +1,5 @@
 replicas: 3
 image:
-  repository: blasmir/spring
+  repository: kovacxo/spring
   tag: 0.0.1
 environment: production
