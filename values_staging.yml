@@ -1,5 +1,5 @@
 replicas: 1
 image:
   repository: janmorgenstern/spring
-  tag: 0.0.1
+  tag: 0.0.2
 environment: staging
