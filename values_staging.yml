@@ -1,5 +1,5 @@
 replicas: 1
 image:
   repository: skunkerle/spring
-  tag: 1.0.1
+  tag: 1.0.3
 environment: staging
